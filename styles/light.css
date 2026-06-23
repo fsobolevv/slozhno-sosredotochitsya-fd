@@ -26,3 +26,16 @@
     display: none;
   }
 }
+
+:root.theme-light {
+  --background-color: rgba(255, 241, 247, 1);
+  --text-color: rgba(53, 52, 48, 1);
+  --header-color: rgba(255, 194, 230, 1);
+  --accent-color: rgba(255, 141, 203, 1);
+  --section-title-color: rgba(53, 52, 48, 1);
+  --bg-image: url("../images/cover-image-light.png");
+}
+
+:root.theme-light .element {
+  display: none;
+}
