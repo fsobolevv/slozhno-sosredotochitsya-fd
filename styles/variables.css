@@ -5,4 +5,5 @@
   --accent-color: rgba(255, 0, 112, 1);
   --section-title-color: rgba(255, 0, 112, 1);
   --bg-image: url("../images/cover-image-dark.png");
+  --display-element: block;
 }

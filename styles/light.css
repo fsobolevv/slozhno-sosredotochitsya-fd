@@ -20,10 +20,7 @@
     --accent-color: rgba(255, 141, 203, 1);
     --section-title-color: rgba(53, 52, 48, 1);
     --bg-image: url("../images/cover-image-light.png");
-  }
-
-  .element {
-    display: none;
+    --display-element: none;
   }
 }
 
@@ -34,8 +31,5 @@
   --accent-color: rgba(255, 141, 203, 1);
   --section-title-color: rgba(53, 52, 48, 1);
   --bg-image: url("../images/cover-image-light.png");
-}
-
-:root.theme-light .element {
-  display: none;
+  --display-element: none;
 }
