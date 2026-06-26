@@ -21,4 +21,6 @@
   --section-title-color: rgba(255, 0, 112, 1);
   --bg-image: url("../images/cover-image-dark.png");
   --display-element: block;
+  --button-hover-color: rgba(255, 0, 112, 0.4);
+  --border-color: rgba(255, 0, 112, 1);
 }
